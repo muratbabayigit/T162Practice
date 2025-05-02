@@ -45,6 +45,18 @@ public class P03_stringMethods {
         metin=" Java Öğrenmek Çok Güzel! ";
         System.out.println(metin);
         System.out.println(metin.trim());
+        /**
+         * contains()
+                * Metin icerisinde arama yapmamizi saglar.
+         * bir stringin içerisinde karakter(ler)in var olup olmadığını kontrol eder.
+                * Sonuc boolean dir.
+         *
+         * equals()
+                * 2 String metnin birbirine esit olup olmadigina bakar. büyük küçük harf farkı vardır. Sonuc boolean dir.
+         *
+         * equalsIgnorecase()
+                * equals() ile ayni islevi gorur, tek farki buyuk kucuk harfe duyarliligi yoktur. Sonuc boolean dir.
+         */
 
 
 
