@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class P09_whileLoop {
  /*
- sizin tarafınızdan belirlenmiş  bir sayıyı kullanıcıya soran ve
+ sizin tarafınızdan(ya da random) belirlenmiş  bir sayıyı kullanıcıya soran ve
  sonu doğru bilirse Tebrik eden bilemezse yeniden isteyen bir sayı tahmin olyunu yazınız
   */
  public static void main(String[] args) {
